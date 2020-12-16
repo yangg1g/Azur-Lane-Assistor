@@ -1,0 +1,17 @@
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Output\Win32Proxy.dll
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Output\Win32Proxy.pdb
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.csprojAssemblyReference.cache
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.csproj.CoreCompileInputs.cache
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.dll
+C:\Users\10947\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.pdb
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\Win32Proxy.dll
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\Win32Proxy.pdb
+D:\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.csprojAssemblyReference.cache
+D:\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.csproj.CoreCompileInputs.cache
+D:\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.dll
+D:\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.pdb
+D:\Downloads\Compressed\SimpleWindowCapture-master\Win32Proxy\obj\Debug\Win32Proxy.csproj.CopyComplete
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\x86\liblept1753.dll
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\x86\libtesseract3052.dll
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\x64\liblept1753.dll
+D:\Downloads\Compressed\SimpleWindowCapture-master\Output\x64\libtesseract3052.dll
